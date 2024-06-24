@@ -1,0 +1,10 @@
+Pandas
+Numpy
+Sqlalchemy
+Matplotlib
+Seaborn
+Scikit-learn
+Requests
+Ipykernel
+openpyxl
+
