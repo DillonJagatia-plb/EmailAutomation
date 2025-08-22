@@ -7,6 +7,15 @@ contacts = {
         "james.carrington@premialab.com",
         # "dillon.jagatia@premialab.com",
     ],
+    "Client_Services": [
+        "James",
+        [
+            "james.carrington@premialab.com",
+            "sarah.vanlam@premialab.com",
+            "mohamed.kheri@premialab.com",
+            "jaden.or@premialab.com",
+        ],
+    ],
     "BarclaysUK": [
         "Dhvani and team",
         [
